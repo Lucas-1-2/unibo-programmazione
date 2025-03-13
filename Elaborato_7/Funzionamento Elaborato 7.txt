@@ -1,0 +1,17 @@
+creare variabili per dataset (struct)
+
+
+
+
+creare funzione distanza euclidea per calcolare la distanza fra un dato fornito
+come ingresso e il dataset di istruzioni dato
+
+
+
+
+trovare la classe di appartenenza del dato passato come ingresso:
+
+
+usare in loop la funzione per calcolare la distanza euclidea passando il dato di ingresso
+in tutti gli esempi (75% de dataset), salvarsi la distanza finale per ogni esempio (75%),
+scegliere il numero massimo (N_K) dei vicini da selezionare per ottenere una classificazione,
